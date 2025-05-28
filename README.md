@@ -33,3 +33,6 @@ git clone https://github.com/M-Surya-S/Saniansyah-Web.git
 - Memahami struktur dasar halaman web menggunakan HTML dan CSS.
 - Menyusun informasi personal dalam bentuk website.
 - Menjadi pengantar untuk project berbasis OOP berikutnya.
+
+
+© 2025 – Muhammad Surya Saniansyah
